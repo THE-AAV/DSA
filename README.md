@@ -37,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/THE-AAV/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/THE-AAV/DSA/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/THE-AAV/DSA/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/THE-AAV/DSA/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/THE-AAV/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
